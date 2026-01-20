@@ -67,3 +67,18 @@ is essential for modern cybersecurity systems.
 Through this task, practical knowledge was gained on password attacks, defenses,
 and secure authentication methods, strengthening the understanding of real-world
 cybersecurity practices.
+
+
+## Screenshots
+
+### Hash Generation Example
+![Hash Generator](hash_generation.png.jpg)
+
+### Weak Password Example
+![Weak Password](weak_password.png.jpg)
+
+### Strong Password Example
+![Strong Password](strong_password.png.jpg)
+
+### Hash Identifier
+![Hash Identifier](hash_identifier.png.jpg)
