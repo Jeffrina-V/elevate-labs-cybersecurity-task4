@@ -1,4 +1,14 @@
 # elevate-labs-cybersecurity-task4
+
+## How to View This Repository
+
+To view this project:
+1. Open the main `README.md` for a summary of the task.
+2. Review the `Password_Security_Task4_Report.pdf` for detailed analysis.
+3. Check the `hashes_examples.txt` for sample password hashes.
+4. Open the `screenshots/` folder to view each screenshot with explanation in its own README.
+
+
 # Password Security & Authentication Analysis
 
 ## Overview
